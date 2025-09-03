@@ -1,3 +1,4 @@
+<?php
 /**
  * This snippet auto generates post title for submitted posts.
  * It's useful when you don't want users to enter post title.
